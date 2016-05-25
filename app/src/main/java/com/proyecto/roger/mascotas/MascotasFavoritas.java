@@ -1,6 +1,5 @@
 package com.proyecto.roger.mascotas;
 
-import android.media.Image;
 import android.os.Bundle;
 
 import android.support.v7.app.AppCompatActivity;
